@@ -1,1 +1,1 @@
-# odin-landing-page
+This project is a simple, mock landing page for a ficticious IT company. The purpose of this project is to sharpen my skills using flexbox, html links, images, fonts, css styling, ect. 
